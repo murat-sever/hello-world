@@ -1,3 +1,3 @@
 # hello-world
-getting started tutorial
-this is edit in a new branch
+getting started tutorial - edited line in new branch
+this is a new line added in a new branch
