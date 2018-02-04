@@ -24,3 +24,6 @@ print "message:", MESSAGE
 sock = socket.socket(socket.AF_INET, # Internet
                      socket.SOCK_DGRAM) # UDP
 sock.sendto(MESSAGE, (UDP_IP, UDP_PORT))
+
+sudo apt-get install bless ile hex editor kurulabilir. 
+
